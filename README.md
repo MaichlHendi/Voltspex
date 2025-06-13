@@ -8,8 +8,8 @@ Main Functions:
   3. Powered by a rechargeable lithium-ion battery.
 
 Github content:
-  . Circuit design
-  . Code
-  . Final product 
-  . CAD design
+  Circuit design, 
+  Code, 
+  Final product and   
+  CAD design
 
